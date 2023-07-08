@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @gem-pranjalsingh.
-- 👀 I’m interested in Web Devlopment.
-- 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate on web app projects.
 - 📫 How to reach me https://www.linkedin.com/in/pranjal-singh06/
 
 <!---
